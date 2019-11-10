@@ -6,6 +6,7 @@
 	"keywords": [
 		"heroku"
 	],
+	"start": "node main.js",
 	"author": "jane-doe",
 	"license": "MIT",
 	"dependencies": {
